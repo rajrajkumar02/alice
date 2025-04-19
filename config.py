@@ -64,7 +64,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 # Get your pyrogram v2 session from Replit
 STRING1 = "STRING_SESSION"
-STRING2 = getenv("BQE-spsAb_OT2PhzPqbbjIuW1NIBRrk6oS33uArM8ybARvxEvM9-gGzYonJ3TURSCgwps07Da-7-J5u8NBVtPo0lFCkg3YyoU-LaTKziFiVoUy_E87NNbwTNX6NcX6c7QTudthlR-keR3g3XI6eo5lBNLxgEVYm8_ApXI4AkmMGzmM-DBGFLszrdN6Z6MrQ5eTQa1bmcIIBiJStu2lx6ortL_yIHegUhREkpcZLaQXniLRXXleLtRAWr681rsAVmdrUYhhdyNhWhMWiR0t70metn4OSTkdRmplHtSysX-gKCkTdtZn-zPNbvdfnruJMqnEhOqdds6XruOF2oCx8_T7RtVsj4yQAAAAFvWoNnAA", None)
+STRING2 = getenv("BQE-spsADAOQcURt1ynATi-za1NzaxoC6_fUElObfq0snRM7L45KfYLGWunmPTMksn9d33dylSanlYaIso0gLC7qIqdUxdggWWfxH2ZI847unh3cMKdwE-xNS2NS6aVqGAHquMm6gupICJwlpUaGblRoJ62Xw_Z9b238Hk7e8yDJ6xoEHjNolXlU6yd1CT1dp6Lhk6m9llCucSd8LRcbwQVS5K3qmCJLw9axBHf6XcVARnfoSe_tSM7oWbth2-EWvXwLMTuwFz_uIUSli-QK-agloRuFXccpzUdlt06g67dg-BCfeACUINifDO2QX9oGTt5rn37sn3iJNgS2vM22i3PwPftt3gAAAAHD9zPhAA", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
@@ -80,7 +80,7 @@ confirmer = {}
 
 START_IMG_URL = "https://i.ibb.co/zh5Bw6DW/file-1297.jpg"
 
-PING_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+PING_IMG_URL = "https://i.ibb.co/zh5Bw6DW/file-1297.jpg"
 
 PLAYLIST_IMG_URL = "https://graph.org/file/763a841a2ad5cbb1e2fc5.jpg"
 STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
